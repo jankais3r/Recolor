@@ -17,3 +17,5 @@ Pixel map:
 Requirements:
 - Pictures 1 and 2 have to have a resolution of 4096x4096 with no repeating colors (see [allRGB](https://allrgb.com)'s gallery of such images).
 - Picture 3 has to have a resolution of 4096x4096, colors don't matter.
+
+Example gallery: [here](https://allrgb.com/esko)
